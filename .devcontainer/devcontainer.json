@@ -65,8 +65,6 @@
             "label": "Playwright report"
         }
     },
-    "hostRequirements": {
-        "cpus": 4
-    },
+
     "remoteUser": "vscode"
 }
